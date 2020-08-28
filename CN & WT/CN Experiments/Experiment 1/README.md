@@ -9,6 +9,7 @@ To implement data link layer framing technologies such as
 ## Procedure  
 ### 1. Procedure for Character Count
 ### 2. Procedure for Bit Stuffing
+### 3. Procedure for Character Stuffing
 
 ## **Output**
 ### Character Count Output  
@@ -16,4 +17,8 @@ To implement data link layer framing technologies such as
 
 ### Bit Stuffing Output  
 ![Output](bitStuffing.png)
+
+### Character Stuffing Output  
+![Output](characterStuffing.png)
+
 
