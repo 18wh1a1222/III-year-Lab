@@ -2,9 +2,9 @@
 ## AIM 
 
 To implement data link layer framing technologies such as  
-1.character count  
-2.characyer stuffing  
-3.bit stuffing  
+1.Character Count  
+2.Bit Stuffing  
+3.Character Stuffing  
 
 ## Procedure  
 ### 1. Procedure for Character Count
